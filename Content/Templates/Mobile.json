@@ -1,0 +1,7 @@
+{ 
+    "Name" : "MobileName",
+    "Short Description" : "sdesc", 
+    "Long Description" : "ldesc",
+    "Details" : [{ "keyword" : "keyword", "body" : "body" }],
+    "Race" : { "Name" : "Race Name" }
+}
