@@ -1,0 +1,6 @@
+{ 
+    "Name" : "RoomName",
+    "Short Description" : "sdesc", 
+    "Long Description" : "ldesc",
+    "Details" : [{ "keyword" : "keyword", "text" : "body" }]
+}

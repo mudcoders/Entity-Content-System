@@ -1,0 +1,5 @@
+{ 
+    "Name" : "AreaName",
+    "Description" : "desc",
+    "Details" : [{ "keyword" : "keyword", "text" : "body" }]
+}

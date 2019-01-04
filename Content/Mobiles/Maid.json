@@ -1,0 +1,8 @@
+{ 
+    "Name" : "Maid",
+    "Short Description" : "A human woman dressed in a maid's uniform.", 
+    "Long Description" : "A meager human woman dressed in a black and white maid's uniform.",
+    "Details" : [{ "keyword" : "uniform", "text" : "Her uniform is black and white with a short frilled skirt." }],
+    "Race" : { "Name" : "human" },
+    "Gender" : "female"
+}

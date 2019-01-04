@@ -1,0 +1,9 @@
+{ 
+    "Name" : "Short Sword",
+    "Short Description" : "A short sword.", 
+    "Long Description" : "This short sword has an iron blade with a leather wrapped hilt and small guard.",
+    "Details" : [{ "keyword" : "guard", "text" : "The guard is a mere 5 centimeters in either direction off of the blade." },
+                    { "keyword" : "hilt", "text" : "The wooden hilt is wrapped in soft leather and capped with an iron pommel." } ],
+    "Type" : "weapon",
+    "Material" : "iron"
+}

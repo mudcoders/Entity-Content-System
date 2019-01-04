@@ -1,8 +1,8 @@
 { 
-    "Name" : "MobileName",
+    "Name" : "ObjectName",
     "Short Description" : "sdesc", 
     "Long Description" : "ldesc",
     "Details" : [{ "keyword" : "keyword", "text" : "body" }],
-    "Race" : { "Name" : "Race Name" },
-    "Gender" : "gender"
+    "Type" : "type",
+    "Material" : "material"
 }
